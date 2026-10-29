@@ -1,15 +1,16 @@
-## 汇报信息 / Presentation details
+**English** | [中文版](https://github.com/soxee1/fintech-course-ppts/blob/main/.github/PULL_REQUEST_TEMPLATE.zh-CN.md)
 
-- 汇报主题 / Topic:
-- 汇报人或小组 / Presenter or group:
-- 汇报日期 / Presentation date:
-- 文件路径或下载链接 / File path or download link:
+## Presentation details
 
-## 提交确认 / Submission checklist
+- Topic:
+- Presenter or group:
+- Presentation date:
+- File path or download link:
 
-- [ ] 文件名包含主题与姓名或组号。The filename includes the topic and presenter or group.
-- [ ] 资料适合公开分享。The materials are suitable for public sharing.
-- [ ] 如有 PDF，已一并上传（可选）。A PDF is included if available (optional).
+## Submission checklist
 
-需要维护者协助补充首页索引或处理其他事项，请在这里说明。<br>
-If you need help updating the homepage index or with anything else, describe it here.
+- [ ] The filename includes the topic and presenter or group.
+- [ ] The materials are suitable for public sharing.
+- [ ] A PDF is included if available (optional).
+
+If you need help updating the homepage indexes or with anything else, describe it here.
